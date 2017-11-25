@@ -21,7 +21,7 @@ In the class *MyMessageHandler.java* you can change the caracter for your bot co
 
 Finally : Put a "ffmpeg.exe" at the root of the folder. (You can find it at https://www.ffmpeg.org/ ).
 
-<imgsrc="ClipBotFolder.PNG">
+<img src="ClipBotFolder.PNG">
 
 Commands:
 -----------------
