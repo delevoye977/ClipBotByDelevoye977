@@ -13,7 +13,7 @@ Be gentle with the bot, it isn't really efficient and can crash if pushed too fa
 
 How to use:
 -----------------
-First of all put your token in *ClipBot.java*.
+First of all put your bot token in *ClipBot.java*.
 
 Then change the parameter NUMBER_OF_SECONDS_TO_RECORD in the *AudioStorage.java*.
 
